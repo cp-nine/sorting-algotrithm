@@ -4,7 +4,6 @@ public class BubleSort {
 
         int[] arr = {5,23,3,7,10,1};
         int[] newArr = bubleSort(arr);
-
         // print result
         System.out.print("Result  : ");
         for (int a: newArr)
